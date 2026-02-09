@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Dalina 👋 🩺 -> 📊
 
-<!--
-**DALINAGB/DALINAGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Médica Cirujana en transición al **Análisis de Datos**. Mi enfoque combina el diagnóstico basado en evidencia con el poder del procesamiento de datos para optimizar la toma de decisiones en negocios y salud.
 
-Here are some ideas to get you started:
+### 🛠️ Mi Stack Técnico
+- **Análisis de Datos:** Python (Pandas, NumPy, Scipy), SQL (PostgreSQL).
+- **Visualización:** Tableau, Matplotlib, Seaborn, Excel Avanzado.
+- **Especialidades:** Pruebas A/B, Análisis de Embudo (Funnels), ETL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Proyectos Destacados
+- [Análisis de Test A/B - Startup Alimenticia](https://github.com/DALINAGB/ab-testing-food-app)
+- [Tendencias del Mercado de Videojuegos](https://github.com/DALINAGB/video-games-market-analysis)
+- [Hábitos de Consumo - Instacart](https://github.com/DALINAGB/instacart-market-basket-analysis)
+
+---
+📫 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/dalinagaxiola) | dalinagbe@gmail.com

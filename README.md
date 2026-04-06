@@ -1,16 +1,35 @@
-# ¡Hola! Soy Dalina 👋 🩺 -> 📊
+# Hi, I'm Dalina Gaxiola! 👋
+### Medical Doctor & Data Analyst | Bridging Clinical Experience with Data Intelligence
 
-Médica Cirujana en transición al **Análisis de Datos**. Mi enfoque combina el diagnóstico basado en evidencia con el poder del procesamiento de datos para optimizar la toma de decisiones en negocios y salud.
-
-### 🛠️ Mi Stack Técnico
-- **Análisis de Datos:** Python (Pandas, NumPy, Scipy), SQL (PostgreSQL).
-- **Visualización:** Tableau, Matplotlib, Seaborn, Excel Avanzado.
-- **Especialidades:** Pruebas A/B, Análisis de Embudo (Funnels), ETL.
-
-### 🔭 Proyectos Destacados
-- [Análisis de Test A/B - Startup Alimenticia](https://github.com/DALINAGB/ab-testing-food-app)
-- [Tendencias del Mercado de Videojuegos](https://github.com/DALINAGB/video-games-market-analysis)
-- [Hábitos de Consumo - Instacart](https://github.com/DALINAGB/instacart-market-basket-analysis)
+I am a Medical Doctor transitioning into the Data Analytics world. My mission is to transform complex healthcare data into actionable insights that improve patient outcomes and operational efficiency. 
 
 ---
-📫 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/dalinagaxiola) | dalinagbe@gmail.com
+
+### 🏥 Featured Healthcare Project
+**[Healthcare Operational Insights](https://github.com/DALINAGB/Healthcare-Analysis-SQL-Looker)** *An analysis of 100k+ clinical records using SQL and BigQuery.*
+* **The Insight:** Corrected age-at-diagnosis bias to reveal that 15% of clinical burden was driven by specific viral conditions, proposing new triage strategies.
+* **Tech:** SQL (BigQuery), Looker Studio.
+* [📊 View Live Dashboard](https://lookerstudio.google.com/s/lrlrOJwjf5s)
+
+---
+
+### 🛠️ Technical Toolkit
+* **Languages:** SQL (PostgreSQL, GoogleSQL), Python (Pandas, NumPy, SciPy).
+* **Visualization:** Looker Studio, Tableau, Excel (Advanced Dashboards).
+* **Analytics:** A/B Testing, Funnel Analysis, Statistical Hypothesis Testing, EDA.
+
+---
+
+### 🚀 Other Projects
+* **[A/A/B Testing Analysis](https://github.com/DALINAGB/A-A-B-Testing-Analysis)**: Behavioral analysis and statistical validation of design changes using Python.
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/dalinagaxiola](https://www.linkedin.com/in/dalinagaxiola)
+* **Portfolio:** [Link a tu sitio de Lovable una vez que lo publiques]
+* **Email:** dalinagbe@gmail.com
+
+---
+
+*"Data in healthcare is not just numbers; it's patients' lives waiting for better decisions."*
